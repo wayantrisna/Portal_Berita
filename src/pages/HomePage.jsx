@@ -1,4 +1,4 @@
-import React from "react";
+import { useState } from "react";from "react";
 import NewsCard from "../components/NewsCard";
 import { Link } from "react-router-dom";
 
@@ -21,3 +21,4 @@ function HomePage() {
 }
 
 export default HomePage;
+
